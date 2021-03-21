@@ -1,0 +1,23 @@
+{
+  "files": {
+    "main.css": "/adtech-design-interview/static/css/main.4c3ace67.chunk.css",
+    "main.js": "/adtech-design-interview/static/js/main.35299842.chunk.js",
+    "main.js.map": "/adtech-design-interview/static/js/main.35299842.chunk.js.map",
+    "runtime-main.js": "/adtech-design-interview/static/js/runtime-main.eb9e1383.js",
+    "runtime-main.js.map": "/adtech-design-interview/static/js/runtime-main.eb9e1383.js.map",
+    "static/js/2.dae266f7.chunk.js": "/adtech-design-interview/static/js/2.dae266f7.chunk.js",
+    "static/js/2.dae266f7.chunk.js.map": "/adtech-design-interview/static/js/2.dae266f7.chunk.js.map",
+    "static/js/3.80d8b3d6.chunk.js": "/adtech-design-interview/static/js/3.80d8b3d6.chunk.js",
+    "static/js/3.80d8b3d6.chunk.js.map": "/adtech-design-interview/static/js/3.80d8b3d6.chunk.js.map",
+    "index.html": "/adtech-design-interview/index.html",
+    "static/css/main.4c3ace67.chunk.css.map": "/adtech-design-interview/static/css/main.4c3ace67.chunk.css.map",
+    "static/js/2.dae266f7.chunk.js.LICENSE.txt": "/adtech-design-interview/static/js/2.dae266f7.chunk.js.LICENSE.txt",
+    "static/media/Test.scss": "/adtech-design-interview/static/media/Metropolis-Bold.c5e04faf.otf"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.eb9e1383.js",
+    "static/js/2.dae266f7.chunk.js",
+    "static/css/main.4c3ace67.chunk.css",
+    "static/js/main.35299842.chunk.js"
+  ]
+}
