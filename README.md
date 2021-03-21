@@ -1,0 +1,1 @@
+Link for the project: https://YuvalBeitOn.github.io/adtech-design-interview

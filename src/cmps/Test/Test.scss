@@ -1,0 +1,18 @@
+
+ @import "../../scss/setup/functions";
+ @import "../../scss/setup/mixins";
+ @import "../../scss/setup/typography";
+ @import "../../scss/setup/variables";
+ 
+ .test {
+     color: darkgreen;
+     font-size: 4rem;
+     font-family: metropolis-bold;
+     @include for-mobile-layout {
+       color: blue;
+      }
+         
+ }
+ 
+ 
+ 
