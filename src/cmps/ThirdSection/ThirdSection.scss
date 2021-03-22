@@ -12,7 +12,7 @@
   background-color: white;
   position: relative;
   @include for-mobile-layout {
-    flex-direction: column;
+    flex-direction: column-reverse;
     align-items: center;
   }
   .mask {
@@ -91,7 +91,7 @@
         letter-spacing: -0.19px;
         line-height: 25px;
         text-align: center;
-        margin-bottom: 50px;
+        margin-bottom: 109px;
       }
     }
   }
