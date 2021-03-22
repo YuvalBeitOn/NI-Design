@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/adtech-design-interview/static/css/main.83254586.chunk.css",
+    "main.css": "/adtech-design-interview/static/css/main.b1a18198.chunk.css",
     "main.js": "/adtech-design-interview/static/js/main.b0d11721.chunk.js",
     "main.js.map": "/adtech-design-interview/static/js/main.b0d11721.chunk.js.map",
     "runtime-main.js": "/adtech-design-interview/static/js/runtime-main.3c69f18f.js",
@@ -10,7 +10,7 @@
     "static/js/3.636cb263.chunk.js": "/adtech-design-interview/static/js/3.636cb263.chunk.js",
     "static/js/3.636cb263.chunk.js.map": "/adtech-design-interview/static/js/3.636cb263.chunk.js.map",
     "index.html": "/adtech-design-interview/index.html",
-    "static/css/main.83254586.chunk.css.map": "/adtech-design-interview/static/css/main.83254586.chunk.css.map",
+    "static/css/main.b1a18198.chunk.css.map": "/adtech-design-interview/static/css/main.b1a18198.chunk.css.map",
     "static/js/2.777ad20b.chunk.js.LICENSE.txt": "/adtech-design-interview/static/js/2.777ad20b.chunk.js.LICENSE.txt",
     "static/media/AppFooter.scss": "/adtech-design-interview/static/media/Spartan-SemiBold.88d40279.ttf",
     "static/media/enjoyable-place-desktop.06399aa5.jpg": "/adtech-design-interview/static/media/enjoyable-place-desktop.06399aa5.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c69f18f.js",
     "static/js/2.777ad20b.chunk.js",
-    "static/css/main.83254586.chunk.css",
+    "static/css/main.b1a18198.chunk.css",
     "static/js/main.b0d11721.chunk.js"
   ]
 }
