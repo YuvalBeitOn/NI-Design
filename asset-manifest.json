@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/adtech-design-interview/static/css/main.378b8082.chunk.css",
-    "main.js": "/adtech-design-interview/static/js/main.2dbaba8f.chunk.js",
-    "main.js.map": "/adtech-design-interview/static/js/main.2dbaba8f.chunk.js.map",
+    "main.css": "/adtech-design-interview/static/css/main.83254586.chunk.css",
+    "main.js": "/adtech-design-interview/static/js/main.b0d11721.chunk.js",
+    "main.js.map": "/adtech-design-interview/static/js/main.b0d11721.chunk.js.map",
     "runtime-main.js": "/adtech-design-interview/static/js/runtime-main.3c69f18f.js",
     "runtime-main.js.map": "/adtech-design-interview/static/js/runtime-main.3c69f18f.js.map",
     "static/js/2.777ad20b.chunk.js": "/adtech-design-interview/static/js/2.777ad20b.chunk.js",
@@ -10,12 +10,12 @@
     "static/js/3.636cb263.chunk.js": "/adtech-design-interview/static/js/3.636cb263.chunk.js",
     "static/js/3.636cb263.chunk.js.map": "/adtech-design-interview/static/js/3.636cb263.chunk.js.map",
     "index.html": "/adtech-design-interview/index.html",
-    "static/css/main.378b8082.chunk.css.map": "/adtech-design-interview/static/css/main.378b8082.chunk.css.map",
+    "static/css/main.83254586.chunk.css.map": "/adtech-design-interview/static/css/main.83254586.chunk.css.map",
     "static/js/2.777ad20b.chunk.js.LICENSE.txt": "/adtech-design-interview/static/js/2.777ad20b.chunk.js.LICENSE.txt",
     "static/media/AppFooter.scss": "/adtech-design-interview/static/media/Spartan-SemiBold.88d40279.ttf",
     "static/media/enjoyable-place-desktop.06399aa5.jpg": "/adtech-design-interview/static/media/enjoyable-place-desktop.06399aa5.jpg",
     "static/media/family-gathering-desktop.03b16029.jpg": "/adtech-design-interview/static/media/family-gathering-desktop.03b16029.jpg",
-    "static/media/AppHeader.scss": "/adtech-design-interview/static/media/hero-bg-desktop.b1340563.jpg",
+    "static/media/AppHeader.scss": "/adtech-design-interview/static/media/hero-bg-mobile.56d0d7be.jpg",
     "static/media/locally-sourced-desktop.957d3e79.jpg": "/adtech-design-interview/static/media/locally-sourced-desktop.957d3e79.jpg",
     "static/media/logo.f6ae2c4c.svg": "/adtech-design-interview/static/media/logo.f6ae2c4c.svg",
     "static/media/menu-item1.7bd94a87.jpg": "/adtech-design-interview/static/media/menu-item1.7bd94a87.jpg",
@@ -26,7 +26,7 @@
   "entrypoints": [
     "static/js/runtime-main.3c69f18f.js",
     "static/js/2.777ad20b.chunk.js",
-    "static/css/main.378b8082.chunk.css",
-    "static/js/main.2dbaba8f.chunk.js"
+    "static/css/main.83254586.chunk.css",
+    "static/js/main.b0d11721.chunk.js"
   ]
 }
