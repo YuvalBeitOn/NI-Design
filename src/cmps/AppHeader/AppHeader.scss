@@ -1,0 +1,63 @@
+@import "../../scss/setup/functions";
+@import "../../scss/setup/mixins";
+@import "../../scss/setup/typography";
+@import "../../scss/setup/variables";
+
+.app-header {
+  height: 820px;
+  padding-left: 120px;
+  background-image: url("../../assets/images/homepage/hero-bg-desktop.jpg");
+  color: #ffffff;
+  width: 100%;
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  img {
+    margin-top: 65px;
+    width: 103px;
+    height: 40px;
+    margin-bottom: 153px;
+  }
+
+  h2 {
+    width: 515px;
+    // height: 132px;
+    font-family: spartan-light;
+    font-size: 64px;
+    font-weight: 300;
+    font-style: normal;
+    letter-spacing: -0.8px;
+    line-height: 72px;
+    text-align: left;
+    margin-bottom: 36px;
+  }
+
+  p {
+    width: 445px;
+    height: 82px;
+    font-family: spartan-reg;
+    font-size: 18px;
+    font-weight: 400;
+    font-style: normal;
+    letter-spacing: -0.22px;
+    line-height: 30px;
+    text-align: left;
+    margin-bottom: 50px;
+  }
+
+  button {
+    width: 245px;
+    height: 64px;
+    border: 2px solid rgba(255, 255, 255, 0.616);
+    font-family: spartan-semibold;
+    color: white;
+    background-color: transparent;
+    font-size: 14px;
+    font-weight: 600;
+    font-style: normal;
+    letter-spacing: 2px;
+    line-height: 16px;
+    text-align: center;
+    text-transform: uppercase;
+  }
+}

@@ -1,23 +1,25 @@
 .container {
-    max-width: 1300px;
+    max-width: 1440px;
     margin: 0 auto;
     padding-left: 10px;
     padding-right: 10px;
 
-    
-    @include for-narrow-layout {
-        max-width: initial;
+    @include for-mobile-layout {
+        max-width: $mobile-breakpoint;
     }
+    // @include for-narrow-layout {
+    //     max-width: initial;
+    // }
 
-    @include for-tablet-layout {
-        max-width: $narrow-breakpoint;
-    }
+    // @include for-tablet-layout {
+    //     max-width: $narrow-breakpoint;
+    // }
 
-    @include for-normal-layout {
-        max-width: $tablet-breakpoint;
-    }
+    // @include for-normal-layout {
+    //     max-width: $tablet-breakpoint;
+    // }
 
-    @include for-wide-layout {
-        max-width: $normal-breakpoint;
-    }
+    // @include for-wide-layout {
+    //     max-width: $normal-breakpoint;
+    // }
 }

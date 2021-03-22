@@ -1,0 +1,100 @@
+@import "../../scss/setup/functions";
+@import "../../scss/setup/mixins";
+@import "../../scss/setup/typography";
+@import "../../scss/setup/variables";
+
+.fourth-section {
+  background-color: white;
+  padding-bottom: 170px;
+  position: relative;
+  padding-top: 160px;
+
+  .mask {
+    margin-right: 62.5px;
+    width: 540px;
+    height: 600px;
+    box-shadow: 0 75px 100px -50px rgba(56, 66, 85, 0.5);
+    background-color: #ededed;
+    img {
+      width: 540px;
+      height: 600px;
+    }
+  }
+
+  .content {
+    margin-left: 62.5px;
+    
+
+    h2 {
+      font-family: spartan-bold;
+      width: 445px;
+      height: 56px;
+      color: #242b37;
+      font-size: 40px;
+      font-weight: 700;
+      font-style: normal;
+      letter-spacing: -0.5px;
+      line-height: 56px;
+      text-align: left;
+      margin-bottom: 16px;
+    }
+
+    p {
+      font-family: spartan-reg;
+      width: 445px;
+      height: 85px;
+      color: #242b37;
+      font-size: 18px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: -0.22px;
+      line-height: 30px;
+      text-align: left;
+      margin-bottom: 67px;
+    }
+
+    button {
+      width: 245px;
+      height: 64px;
+      font-family: spartan-semibold;
+      color: white;
+      background-color: black;
+      font-size: 14px;
+      font-weight: 600;
+      font-style: normal;
+      letter-spacing: 2px;
+      line-height: 16px;
+      text-align: center;
+      text-transform: uppercase;
+      margin-bottom: 78px;
+      border: 0.5px solid rgb(231, 231, 231);
+      outline: none;
+    }
+
+    .events-list {
+      p {
+        height: 28px;
+        opacity: 0.5;
+        color: #4c4c4c;
+        font-family: spartan-semibold;
+        font-size: 14px;
+        font-weight: 600;
+        font-style: normal;
+        letter-spacing: 2px;
+        line-height: 28px;
+        text-align: left;
+        text-transform: uppercase;
+      }
+    }
+  }
+
+  .back-square {
+    position: absolute;
+    z-index: -1;
+    width: 895px;
+    height: 320px;
+    border-radius: 100px 0 0;
+    background-color: #5c6779;
+    opacity: 0.08;
+  }
+}

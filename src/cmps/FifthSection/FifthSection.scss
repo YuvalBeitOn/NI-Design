@@ -1,0 +1,44 @@
+@import "../../scss/setup/functions";
+@import "../../scss/setup/mixins";
+@import "../../scss/setup/typography";
+@import "../../scss/setup/variables";
+
+.fifth-section {
+  background: url("../../assets/images/homepage/ready-bg-desktop.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
+  height: 240px;
+//   opacity: 0.25;
+  .content {
+      width: 1440px;
+    h2 {
+    //   width: 517px;
+      height: 56px;
+      color: #ffffff;
+      font-family: spartan-bold;
+      font-size: 40px;
+      font-weight: 700;
+      font-style: normal;
+      letter-spacing: -0.5px;
+      line-height: 56px;
+      text-align: left;
+    }
+
+    button {
+      width: 245px;
+      height: 64px;
+      border: 2px solid rgba(255, 255, 255, 0.616);
+      font-family: spartan-semibold;
+      color: white;
+      background-color: transparent;
+      font-size: 14px;
+      font-weight: 600;
+      font-style: normal;
+      letter-spacing: 2px;
+      line-height: 16px;
+      text-align: center;
+      text-transform: uppercase;
+    }
+  }
+}

@@ -1,0 +1,67 @@
+@import "../../scss/setup/functions";
+@import "../../scss/setup/mixins";
+@import "../../scss/setup/typography";
+@import "../../scss/setup/variables";
+
+@import "../../scss/setup/functions";
+@import "../../scss/setup/mixins";
+@import "../../scss/setup/typography";
+@import "../../scss/setup/variables";
+
+.third-section {
+  background-color: white;
+  position: relative;
+  .mask {
+    margin-left: 62.5px;
+    margin-bottom: -90px;
+    width: 540px;
+    height: 720px;
+    box-shadow: 0 75px 100px -50px rgba(56, 66, 85, 0.5);
+        background-color: #ededed;
+    img {
+      width: 540px;
+      height: 720px;
+    }
+  }
+
+  .content {
+    margin-right: 62.5px;
+
+    h2 {
+      width: 445px;
+      height: 107px;
+      color: #242b37;
+      font-family: spartan-bold;
+      font-size: 40px;
+      font-weight: 700;
+      font-style: normal;
+      letter-spacing: -0.5px;
+      line-height: 56px;
+      text-align: left;
+      margin-bottom: 21px;
+    }
+
+    p {
+      width: 445px;
+      height: 85px;
+      color: #242b37;
+      font-family: spartan-reg;
+      font-size: 18px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: -0.22px;
+      line-height: 30px;
+      text-align: left;
+    }
+  }
+
+  .back-square {
+    position: absolute;
+    z-index: -1;
+    width: 895px;
+    height: 320px;
+    border-radius: 100px 0 0;
+    background-color: #5c6779;
+    opacity: 0.08;
+  }
+}
