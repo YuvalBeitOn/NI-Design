@@ -12,16 +12,33 @@
   background-repeat: no-repeat;
   background-position: center;
   background-size: cover;
+  @include for-mobile-layout {
+    background-image: url("../../assets/images/homepage/hero-bg-mobile.jpg");
+    padding-left: unset;
+    padding: 0 24px;
+    background-color: black;
+    width: 375px;
+    height: 748px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  }
   img {
     margin-top: 65px;
     width: 103px;
     height: 40px;
     margin-bottom: 153px;
+    @include for-mobile-layout {
+      width: 83px;
+      height: 32px;
+      margin: 32px 0;
+    }
   }
 
   h2 {
     width: 515px;
-    // height: 132px;
+    height: 132px;
     font-family: spartan-light;
     font-size: 64px;
     font-weight: 300;
@@ -30,6 +47,17 @@
     line-height: 72px;
     text-align: left;
     margin-bottom: 36px;
+    @include for-mobile-layout {
+      width: 327px;
+      height: 72px;
+      font-size: 32px;
+      font-weight: 300;
+      font-style: normal;
+      letter-spacing: -0.4px;
+      line-height: 40px;
+      text-align: center;
+      margin-bottom: 32px;
+    }
   }
 
   p {
@@ -43,6 +71,17 @@
     line-height: 30px;
     text-align: left;
     margin-bottom: 50px;
+    @include for-mobile-layout {
+      width: 327px;
+      height: 69px;
+      color: #ffffff;
+      font-size: 15px;
+      font-weight: 400;
+      font-style: normal;
+      letter-spacing: -0.19px;
+      line-height: 25px;
+      text-align: center;
+    }
   }
 
   button {

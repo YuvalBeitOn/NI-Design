@@ -1,5 +1,5 @@
 
-import React, { Component } from 'react'
+import React, { Component, Fragment } from 'react'
 
 import './ItemList.scss'
 import ItemPreview from '../ItemPreview/ItemPreview'
